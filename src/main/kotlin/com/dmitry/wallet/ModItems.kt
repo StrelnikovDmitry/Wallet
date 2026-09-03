@@ -8,39 +8,39 @@ import net.minecraft.registry.Registry
 object ModItems {
     val COPPER_COIN: Item = Registry.register(
         Registries.ITEM,
-        Wallet.id(""),
+        Wallet.id("copper_coin"),
         Item(FabricItemSettings())
     )
     val IRON_COIN: Item = Registry.register(
         Registries.ITEM,
-        Wallet.id(""),
+        Wallet.id("iron_coin"),
         Item(FabricItemSettings())
     )
     val GOLD_IRON: Item = Registry.register(
         Registries.ITEM,
-        Wallet.id(""),
+        Wallet.id("gold_coin"),
         Item(FabricItemSettings())
     )
 
     val GREEN_CASH: Item = Registry.register(
         Registries.ITEM,
-        Wallet.id(""),
+        Wallet.id("green_cash"),
         Item(FabricItemSettings())
     )
     val RED_CASH: Item = Registry.register(
         Registries.ITEM,
-        Wallet.id(""),
+        Wallet.id("red_cash"),
         Item(FabricItemSettings())
     )
     val BLUE_CASH: Item = Registry.register(
         Registries.ITEM,
-        Wallet.id(""),
+        Wallet.id("blue_cash"),
         Item(FabricItemSettings())
     )
 
     val WALLET: Item = Registry.register(
         Registries.ITEM,
-        Wallet.id(""),
+        Wallet.id("wallet"),
         Item(FabricItemSettings().maxCount(1))
     )
 
