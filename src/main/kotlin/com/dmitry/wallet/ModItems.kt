@@ -16,7 +16,7 @@ object ModItems {
         Wallet.id("iron_coin"),
         Item(FabricItemSettings())
     )
-    val GOLD_IRON: Item = Registry.register(
+    val GOLD_COIN: Item = Registry.register(
         Registries.ITEM,
         Wallet.id("gold_coin"),
         Item(FabricItemSettings())
