@@ -1,10 +1,12 @@
 {
-  "type": "minecraft:crating_shaped",
-  "pattern": [" L ", "LCL", " L "],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " L ",
+    "LCL",
+    " L "
+  ],
   "key": {
-    " ": {
-      "item": "minecraft:air"
-    },
     "L": {
       "item": "minecraft:leather"
     },
@@ -14,7 +16,7 @@
   },
 
   "result": {
-    "id": "wallet:wallet",
+    "item": "wallet:wallet",
     "count": 1
   }
 }

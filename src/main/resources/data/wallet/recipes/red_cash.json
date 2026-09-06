@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "ingregients": [
+  "category": "misc",
+  "ingredients": [
     {
       "item": "minecraft:red_dye"
     },
@@ -10,7 +11,7 @@
   ],
 
   "result": {
-    "id": "wallet:red_cash",
+    "item": "wallet:red_cash",
     "count": 1
   }
 }

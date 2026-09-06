@@ -1,13 +1,14 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "ingregients": [
+  "category": "misc",
+  "ingredients": [
     {
       "item": "minecraft:iron_nugget"
     }
   ],
 
   "result": {
-    "id": "wallet:iron_coin",
+    "item": "wallet:iron_coin",
     "count": 4
   }
 }

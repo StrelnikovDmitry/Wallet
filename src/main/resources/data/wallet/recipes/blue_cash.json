@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "ingregients": [
+  "category": "misc",
+  "ingredients": [
     {
       "item": "minecraft:blue_dye"
     },
@@ -10,7 +11,7 @@
   ],
 
   "result": {
-    "id": "wallet:blue_cash",
+    "item": "wallet:blue_cash",
     "count": 1
   }
 }
