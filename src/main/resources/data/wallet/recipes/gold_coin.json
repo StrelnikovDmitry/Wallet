@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingregients": [
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+
+  "result": {
+    "id": "wallet:gold_coin",
+    "count": 4
+  }
+}

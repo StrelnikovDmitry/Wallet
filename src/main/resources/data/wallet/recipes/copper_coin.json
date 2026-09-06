@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingregients": [
+    {
+      "item": "minecraft:copper_nugget"
+    }
+  ],
+
+  "result": {
+    "id": "wallet:copper_coin",
+    "count": 4
+  }
+}
