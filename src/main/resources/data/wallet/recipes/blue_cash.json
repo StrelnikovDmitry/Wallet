@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingregients": [
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+
+  "result": {
+    "id": "wallet:blue_cash",
+    "count": 1
+  }
+}

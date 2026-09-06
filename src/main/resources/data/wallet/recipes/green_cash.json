@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingregients": [
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+
+  "result": {
+    "id": "wallet:green_cash",
+    "count": 1
+  }
+}
