@@ -1,0 +1,9 @@
+{
+  "item.wallet.wallet": "Кошелёк",
+  "item.wallet.gold_coin": "Золотая монета",
+  "item.wallet.iron_coin": "Железная монета",
+  "item.wallet.copper_coin": "Медная монета",
+  "item.wallet.red_cash": "Красная купюра",
+  "item.wallet.blue_cash": "Синяя купюра",
+  "item.wallet.green_cash": "Зелёная купюра"
+}

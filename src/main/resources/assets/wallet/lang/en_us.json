@@ -1,0 +1,9 @@
+{
+  "item.wallet.wallet": "Wallet",
+  "item.wallet.gold_coin": "Gold Coin",
+  "item.wallet.iron_coin": "Iron Coin",
+  "item.wallet.copper_coin": "Copper Coin",
+  "item.wallet.red_cash": "Red Cash",
+  "item.wallet.blue_cash": "Blue Cash",
+  "item.wallet.green_cash": "Green Cash"
+}
